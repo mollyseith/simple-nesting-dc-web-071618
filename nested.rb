@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-		 request.programmer_hash[grace_hopper]
+		 request.programmer_hash[:grace_hopper]
 
 
 end
